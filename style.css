@@ -9,19 +9,6 @@ header  {
     color: rgb(255, 255, 255);
     padding: 20px 0;
 }
-.tituloprincipal{
-    text-align: left;
-}
-.item1{
-    text-align: right;
-}
-.item2{
-    text-align: right;
-}
-.item3{
-    text-align: right;
-}
-
 nav ul {
     list-style: none;
     margin: 0;
@@ -37,6 +24,19 @@ nav ul li a {
     color:black;
     text-decoration: cursive;
     
+}
+
+.tituloprincipal{
+    text-align: left;
+}
+.item1{
+    text-align: right;
+}
+.item2{
+    text-align: right;
+}
+.item3{
+    text-align: right;
 }
 
 section{
