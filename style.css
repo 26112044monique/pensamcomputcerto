@@ -42,6 +42,9 @@ nav ul li a {
 section{
     padding: 40px;
 }
+.panelas{
+    height: 350px;
+}
 
 .gastronomia{
     text-align: center;
